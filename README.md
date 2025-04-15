@@ -2,10 +2,12 @@
 
 My name is **Irgi Zanuar**.<br>
 
-🌱 Currently learning<br>
-<ul>Artificial Intelligence</ul>
-<ul>Machine Learning</ul>
-<ul>AWS Cloud Computing</ul>
+🌱 Currently learning : <br>
+<ul>
+  <li>Artificial Intelligence</li>
+  <li>Machine Learning</li>
+  <li>AWS Cloud Computing</li>
+</ul>
 
 ### Reach me on
 <div id="badges">
